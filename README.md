@@ -1,4 +1,4 @@
-# Walmart-Sales-Data-Analysis-SQL
+# Yelp-Data-Analysis
 
 
 
