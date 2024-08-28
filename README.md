@@ -9,8 +9,11 @@ Yelp is a global online review network, including restaurants, shopping malls, h
 
 ## Objectives Of The Project
 
-### Objective 1: The Business Part. Precisely describe the business problem Yelp Predictor aims to solve, discuss why this problem is important, and explore how our data-science techniques can make a difference.
-### Objective 2: The Data Part. Formulate the business problem as a data problem and develop a data science solution for implementation.
-### Objective 3: Sentimental Analysis. Develop a prototype of Yelp Predictor by acquiring a sample data set and implementing the previously designed math solution.
+### Objective 1
+The Business Part. Precisely describe the business problem Yelp Predictor aims to solve, discuss why this problem is important, and explore how our data-science techniques can make a difference.
+### Objective 2
+The Data Part. Formulate the business problem as a data problem and develop a data science solution for implementation.
+### Objective 3
+Sentimental Analysis. Develop a prototype of Yelp Predictor by acquiring a sample data set and implementing the previously designed math solution.
 
 
